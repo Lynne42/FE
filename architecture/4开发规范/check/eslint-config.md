@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [max-len](#max-len)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # max-len
 [link](https://www.dongwm.com/post/pep8-max-line-length/)
 ```

@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [React事件](#react%E4%BA%8B%E4%BB%B6)
+- [React阻止默认行为](#react%E9%98%BB%E6%AD%A2%E9%BB%98%E8%AE%A4%E8%A1%8C%E4%B8%BA)
+- [绑定事件](#%E7%BB%91%E5%AE%9A%E4%BA%8B%E4%BB%B6)
+- [异步访问事件](#%E5%BC%82%E6%AD%A5%E8%AE%BF%E9%97%AE%E4%BA%8B%E4%BB%B6)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 <!--
  * @Author: your name
  * @Date: 2020-09-03 14:41:31

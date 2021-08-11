@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [下载iTerm2: http://www.iterm2.com/downloads.html](#%E4%B8%8B%E8%BD%BDiterm2-httpwwwiterm2comdownloadshtml)
+- [安装Oh My Bash](#%E5%AE%89%E8%A3%85oh-my-bash)
+- [使用solarized配色方案](#%E4%BD%BF%E7%94%A8solarized%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### 下载iTerm2: http://www.iterm2.com/downloads.html
 
 https://www.jianshu.com/p/ba08713c2b19

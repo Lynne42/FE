@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [CommonJS - 同步加载，服务器端的模块化规范](#commonjs---%E5%90%8C%E6%AD%A5%E5%8A%A0%E8%BD%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E7%9A%84%E6%A8%A1%E5%9D%97%E5%8C%96%E8%A7%84%E8%8C%83)
+  - [实现原理：](#%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86)
+  - [特点](#%E7%89%B9%E7%82%B9)
+  - [使用场景：](#%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF)
+- [使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## CommonJS - 同步加载，服务器端的模块化规范
 
 随着Node.js的到来，CommonJS规范的落地以及各种前端工具、解决方案的出现，这样成为了JS模块化开发的一个分水岭，引用一段描述：

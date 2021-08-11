@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [CMD（Common Module Definition）](#cmdcommon-module-definition)
+- [特点](#%E7%89%B9%E7%82%B9)
+- [实现](#%E5%AE%9E%E7%8E%B0)
+- [定义模块](#%E5%AE%9A%E4%B9%89%E6%A8%A1%E5%9D%97)
+- [加载模块-sea.js](#%E5%8A%A0%E8%BD%BD%E6%A8%A1%E5%9D%97-seajs)
+    - [sea.js特性](#seajs%08%E7%89%B9%E6%80%A7)
+    - [配置sea.js](#%E9%85%8D%E7%BD%AEseajs)
+    - [构建工具](#%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## CMD（Common Module Definition）
 
 CMD与AMD一样也是一种模块定义规范, 明确了模块的基本书写格式和基本交互规则

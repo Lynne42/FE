@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [DOM事件模型](#dom%E4%BA%8B%E4%BB%B6%E6%A8%A1%E5%9E%8B)
+- [DOM事件传播](#dom%E4%BA%8B%E4%BB%B6%E4%BC%A0%E6%92%AD)
+- [事件委托](#%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98)
+- [事件对象的属性和方法](#%E4%BA%8B%E4%BB%B6%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%B1%9E%E6%80%A7%E5%92%8C%E6%96%B9%E6%B3%95)
+- [阻止事件传播](#%E9%98%BB%E6%AD%A2%E4%BA%8B%E4%BB%B6%E4%BC%A0%E6%92%AD)
+    - [```event.stopPropagation();```](#eventstoppropagation)
+    - [```event.stopImmediatePropagation();```](#eventstopimmediatepropagation)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # DOM事件模型
 事件是用户操作网站时发生的一系列交互或者网页本身的一些操作
 

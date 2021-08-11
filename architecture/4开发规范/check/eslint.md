@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+  - [安装和使用](#%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8)
+  - [配置react相关规范](#%E9%85%8D%E7%BD%AEreact%E7%9B%B8%E5%85%B3%E8%A7%84%E8%8C%83)
+  - [](#)
+- [规范](#%E8%A7%84%E8%8C%83)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## 安装和使用
 

@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [js](#js)
+- [es6](#es6)
+- [页面加载](#%E9%A1%B5%E9%9D%A2%E5%8A%A0%E8%BD%BD)
+- [React](#react)
+- [mobx, redux](#mobx-redux)
+- [html](#html)
+- [css](#css)
+- [移动端](#%E7%A7%BB%E5%8A%A8%E7%AB%AF)
+- [安全](#%E5%AE%89%E5%85%A8)
+- [性能优化](#%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
+- [webpack](#webpack)
+- [算法](#%E7%AE%97%E6%B3%95)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # js
 
 - [谈谈事件循环机制？/对宏任务和微任务的理解/与nodejs中的事件循环的区别](../JS/核心/事件循环机制.md)

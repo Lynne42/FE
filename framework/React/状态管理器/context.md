@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+  - [](#)
+  - [缺点](#%E7%BC%BA%E7%82%B9)
+  - [使用](#%E4%BD%BF%E7%94%A8)
+- [说说Context有哪些属性？](#%E8%AF%B4%E8%AF%B4context%E6%9C%89%E5%93%AA%E4%BA%9B%E5%B1%9E%E6%80%A7)
+- [在React怎么使用Context/怎么使用Context开发组件？](#%E5%9C%A8react%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8context%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8context%E5%BC%80%E5%8F%91%E7%BB%84%E4%BB%B6)
+- [什么情况下可以使用context](#%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8context)
+- [为什么React并不推荐我们优先考虑使用Context？](#%E4%B8%BA%E4%BB%80%E4%B9%88react%E5%B9%B6%E4%B8%8D%E6%8E%A8%E8%8D%90%E6%88%91%E4%BB%AC%E4%BC%98%E5%85%88%E8%80%83%E8%99%91%E4%BD%BF%E7%94%A8context)
+- [除了实例的属性可以获取Context外哪些地方还能直接获取Context呢？](#%E9%99%A4%E4%BA%86%E5%AE%9E%E4%BE%8B%E7%9A%84%E5%B1%9E%E6%80%A7%E5%8F%AF%E4%BB%A5%E8%8E%B7%E5%8F%96context%E5%A4%96%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9%E8%BF%98%E8%83%BD%E7%9B%B4%E6%8E%A5%E8%8E%B7%E5%8F%96context%E5%91%A2)
+- [childContextTypes是什么？它有什么用？](#childcontexttypes%E6%98%AF%E4%BB%80%E4%B9%88%E5%AE%83%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8)
+- [contextType是什么？它有什么用？](#contexttype%E6%98%AF%E4%BB%80%E4%B9%88%E5%AE%83%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8)
+- [Consumer向上找不到Provider的时候怎么办？](#consumer%E5%90%91%E4%B8%8A%E6%89%BE%E4%B8%8D%E5%88%B0provider%E7%9A%84%E6%97%B6%E5%80%99%E6%80%8E%E4%B9%88%E5%8A%9E)
+- [Context api可以取代Redux吗？为什么？](#context-api%E5%8F%AF%E4%BB%A5%E5%8F%96%E4%BB%A3redux%E5%90%97%E4%B8%BA%E4%BB%80%E4%B9%88)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ### 
 - 数据不需要在组件树中层层传递，便可以在组建中分享数据

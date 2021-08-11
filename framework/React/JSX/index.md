@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [JSX是什么？](#jsx%E6%98%AF%E4%BB%80%E4%B9%88)
+- [JSX组成](#jsx%E7%BB%84%E6%88%90)
+- [JSX原理](#jsx%E5%8E%9F%E7%90%86)
+- [JSX为什么使用？](#jsx%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8)
+- [”关注点分离“](#%E5%85%B3%E6%B3%A8%E7%82%B9%E5%88%86%E7%A6%BB)
+- [JSX语法](#jsx%E8%AF%AD%E6%B3%95)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## JSX是什么？
 ---
 - JSX， 即JavaScript XML 是JavaScript的一种语法扩展

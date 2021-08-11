@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [几个题目](#%E5%87%A0%E4%B8%AA%E9%A2%98%E7%9B%AE)
+  - [题目一：](#%E9%A2%98%E7%9B%AE%E4%B8%80)
+  - [题目二：](#%E9%A2%98%E7%9B%AE%E4%BA%8C)
+  - [题目三：](#%E9%A2%98%E7%9B%AE%E4%B8%89)
+  - [题目四：](#%E9%A2%98%E7%9B%AE%E5%9B%9B)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 几个题目
 
 点击 BUTTON 打印的结果是：

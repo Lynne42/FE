@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [预设颜色参数](#%E9%A2%84%E8%AE%BE%E9%A2%9C%E8%89%B2%E5%8F%82%E6%95%B0)
+  - [提供方法](#%E6%8F%90%E4%BE%9B%E6%96%B9%E6%B3%95)
+  - [实现](#%E5%AE%9E%E7%8E%B0)
+    - [定义预设的颜色值](#%E5%AE%9A%E4%B9%89%E9%A2%84%E8%AE%BE%E7%9A%84%E9%A2%9C%E8%89%B2%E5%80%BC)
+    - [检测传入的color值是否是预设值](#%E6%A3%80%E6%B5%8B%E4%BC%A0%E5%85%A5%E7%9A%84color%E5%80%BC%E6%98%AF%E5%90%A6%E6%98%AF%E9%A2%84%E8%AE%BE%E5%80%BC)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 预设颜色参数
 ## 提供方法
 - 预设可选的颜色

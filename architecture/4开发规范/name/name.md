@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [规则](#%E8%A7%84%E5%88%99)
+- [模式](#%E6%A8%A1%E5%BC%8F)
+  - [A/HC/LC模式](#ahclc%E6%A8%A1%E5%BC%8F)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## 规则
 - 遵循SID原则
     - Short： 简短，避免输入太长，但是也应该注意不能简写到失去其原本的意义

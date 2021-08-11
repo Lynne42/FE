@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+  - [闭包](#%E9%97%AD%E5%8C%85)
+  - [定义](#%E5%AE%9A%E4%B9%89)
+  - [特点](#%E7%89%B9%E7%82%B9)
+  - [使用场景](#%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF)
+- [问答](#%E9%97%AE%E7%AD%94)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## 闭包
 - 函数嵌套函数
 - 有权访问另一个函数作用域中的变量和参数

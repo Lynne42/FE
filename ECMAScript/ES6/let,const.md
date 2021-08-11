@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [``var, let, const的区别``](#var-let-const%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### ``var, let, const的区别``
 - var声明的变量会挂载到window上，let和const的则不会
 - var声明的变量存在变量提升， let和const的则不会，let和const存在暂存性死区

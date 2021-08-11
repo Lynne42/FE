@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [State](#state)
+- [setState](#setstate)
+- [为什么不直接更新state](#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%9B%B4%E6%8E%A5%E6%9B%B4%E6%96%B0state)
+- [setState在什么时候是异步的](#setstate%E5%9C%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%98%AF%E5%BC%82%E6%AD%A5%E7%9A%84)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## State
 ---
 - 不能直接修改state, 而要使用setState

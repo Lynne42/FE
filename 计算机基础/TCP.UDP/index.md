@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [UDP](#udp)
+- [TCP](#tcp)
+  - [三次握手](#%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B)
+  - [四次挥手](#%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B)
+- [为什么不能用两次握手进行连接？](#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E7%94%A8%E4%B8%A4%E6%AC%A1%E6%8F%A1%E6%89%8B%E8%BF%9B%E8%A1%8C%E8%BF%9E%E6%8E%A5)
+- [为何连接的时候是三次握手，断开的时候是四次挥手](#%E4%B8%BA%E4%BD%95%E8%BF%9E%E6%8E%A5%E7%9A%84%E6%97%B6%E5%80%99%E6%98%AF%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E6%96%AD%E5%BC%80%E7%9A%84%E6%97%B6%E5%80%99%E6%98%AF%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B)
+- [为何客户端TIME_WAIT状态需要等待一段时间才能进入关闭状态](#%E4%B8%BA%E4%BD%95%E5%AE%A2%E6%88%B7%E7%AB%AFtime_wait%E7%8A%B6%E6%80%81%E9%9C%80%E8%A6%81%E7%AD%89%E5%BE%85%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E6%89%8D%E8%83%BD%E8%BF%9B%E5%85%A5%E5%85%B3%E9%97%AD%E7%8A%B6%E6%80%81)
+- [TCP和UDP的区别](#tcp%E5%92%8Cudp%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # UDP
 - 面向无连接的
   - 在发送数据之前无需像TCP一样进行3次握手建立连接

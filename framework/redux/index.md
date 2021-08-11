@@ -1,3 +1,31 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [是什么，作用](#%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%9C%E7%94%A8)
+- [特点](#%E7%89%B9%E7%82%B9)
+- [为什么要使用](#%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BD%BF%E7%94%A8)
+- [何时使用](#%E4%BD%95%E6%97%B6%E4%BD%BF%E7%94%A8)
+- [核心](#%E6%A0%B8%E5%BF%83)
+  - [术语](#%E6%9C%AF%E8%AF%AD)
+    - [`store`](#store)
+    - [`reducer`](#reducer)
+    - [`actions`](#actions)
+  - [不可变性](#%E4%B8%8D%E5%8F%AF%E5%8F%98%E6%80%A7)
+    - [redux为什么设置成不可变的更新](#redux%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%BE%E7%BD%AE%E6%88%90%E4%B8%8D%E5%8F%AF%E5%8F%98%E7%9A%84%E6%9B%B4%E6%96%B0)
+  - [数据流](#%E6%95%B0%E6%8D%AE%E6%B5%81)
+    - [单向数据流](#%E5%8D%95%E5%90%91%E6%95%B0%E6%8D%AE%E6%B5%81)
+    - [redux数据流](#redux%E6%95%B0%E6%8D%AE%E6%B5%81)
+- [middleware](#middleware)
+  - [异步 redux-thunk](#%E5%BC%82%E6%AD%A5-redux-thunk)
+- [副作用](#%E5%89%AF%E4%BD%9C%E7%94%A8)
+- [源码](#%E6%BA%90%E7%A0%81)
+- [生态](#%E7%94%9F%E6%80%81)
+- [工具](#%E5%B7%A5%E5%85%B7)
+- [文档](#%E6%96%87%E6%A1%A3)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 是什么，作用
 - Redux是一个可预测的全局应用状态管理库，与react解耦，可应用到其他非React的JS应用中
 - Redux使用称为“操作”的事件来管理和更新应用程序状态, 它用作需要在整个应用程序中使用的状态的集中存储，其规则确保只能以可预测的方式更新状态。

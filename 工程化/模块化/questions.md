@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [```谈谈你对模块化开发的理解？```](#%E8%B0%88%E8%B0%88%E4%BD%A0%E5%AF%B9%E6%A8%A1%E5%9D%97%E5%8C%96%E5%BC%80%E5%8F%91%E7%9A%84%E7%90%86%E8%A7%A3)
+- [```有几种模块加载方案？```](#%E6%9C%89%E5%87%A0%E7%A7%8D%E6%A8%A1%E5%9D%97%E5%8A%A0%E8%BD%BD%E6%96%B9%E6%A1%88)
+- [```AMD和CMD规范的区别```](#amd%E5%92%8Ccmd%E8%A7%84%E8%8C%83%E7%9A%84%E5%8C%BA%E5%88%AB)
+- [```ES6 模块与 CommonJS 模块、AMD、CMD 的差异```](#es6-%E6%A8%A1%E5%9D%97%E4%B8%8E-commonjs-%E6%A8%A1%E5%9D%97amdcmd-%E7%9A%84%E5%B7%AE%E5%BC%82)
+- [```requireJS的核心原理是什么```](#requirejs%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### ```谈谈你对模块化开发的理解？```
 
 模块可以理解为一个可以独立运行的单元， 是实现一个功能的一系列方法的集合。可以接收外部的参数输入，同时可以导出自己的方法供其他模块使用。

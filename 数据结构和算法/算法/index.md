@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [什么是算法](#%E4%BB%80%E4%B9%88%E6%98%AF%E7%AE%97%E6%B3%95)
+- [衡量算法好坏的重要标准](#%E8%A1%A1%E9%87%8F%E7%AE%97%E6%B3%95%E5%A5%BD%E5%9D%8F%E7%9A%84%E9%87%8D%E8%A6%81%E6%A0%87%E5%87%86)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 什么是算法
 
 - 在数学领域，算法是用于解决某一类问题的公式和思想

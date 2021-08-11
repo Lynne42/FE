@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [什么是跨域](#%E4%BB%80%E4%B9%88%E6%98%AF%E8%B7%A8%E5%9F%9F)
+- [为什么会有跨域](#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E8%B7%A8%E5%9F%9F)
+- [跨域如何解决](#%E8%B7%A8%E5%9F%9F%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3)
+  - [<a id="jsonp">通过jsonp跨域</a>](#a-idjsonp%E9%80%9A%E8%BF%87jsonp%E8%B7%A8%E5%9F%9Fa)
+  - [<a id="domain">document.domain + iframe跨域</a>](#a-iddomaindocumentdomain--iframe%E8%B7%A8%E5%9F%9Fa)
+  - [<a id="hash">location.hash + iframe 跨域</a>](#a-idhashlocationhash--iframe-%E8%B7%A8%E5%9F%9Fa)
+  - [<a id="name">window.name + iframe 跨域</a>](#a-idnamewindowname--iframe-%E8%B7%A8%E5%9F%9Fa)
+  - [<a id="postMessage">postMessage跨域</a>](#a-idpostmessagepostmessage%E8%B7%A8%E5%9F%9Fa)
+  - [<a id="cors">跨域资源共享CORS</a>](#a-idcors%E8%B7%A8%E5%9F%9F%E8%B5%84%E6%BA%90%E5%85%B1%E4%BA%ABcorsa)
+  - [<a id="nginx">nginx代理</a>](#a-idnginxnginx%E4%BB%A3%E7%90%86a)
+  - [<a id="nodejs">nodejs中间件代理</a>](#a-idnodejsnodejs%E4%B8%AD%E9%97%B4%E4%BB%B6%E4%BB%A3%E7%90%86a)
+  - [<a id="websocket">webSocket协议跨域</a>](#a-idwebsocketwebsocket%E5%8D%8F%E8%AE%AE%E8%B7%A8%E5%9F%9Fa)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## 什么是跨域
 跨域是由浏览器的同源策略造成的，会阻止一个域的js脚本和另一个不同域的内容进行交互
 

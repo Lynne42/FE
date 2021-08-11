@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [常用的正则表达式](#%E5%B8%B8%E7%94%A8%E7%9A%84%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F)
+- [检测html空标签](#%E6%A3%80%E6%B5%8Bhtml%E7%A9%BA%E6%A0%87%E7%AD%BE)
+- [匹配前后空格](#%E5%8C%B9%E9%85%8D%E5%89%8D%E5%90%8E%E7%A9%BA%E6%A0%BC)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ### 常用的正则表达式
 

@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [性能优化](#%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
+  - [减少组件的重复渲染](#%E5%87%8F%E5%B0%91%E7%BB%84%E4%BB%B6%E7%9A%84%E9%87%8D%E5%A4%8D%E6%B8%B2%E6%9F%93)
+  - [列表元素添加唯一的key标识](#%E5%88%97%E8%A1%A8%E5%85%83%E7%B4%A0%E6%B7%BB%E5%8A%A0%E5%94%AF%E4%B8%80%E7%9A%84key%E6%A0%87%E8%AF%86)
+  - [缓存数据](#%E7%BC%93%E5%AD%98%E6%95%B0%E6%8D%AE)
+  - [避免使用内联对象和匿名函数](#%E9%81%BF%E5%85%8D%E4%BD%BF%E7%94%A8%E5%86%85%E8%81%94%E5%AF%B9%E8%B1%A1%E5%92%8C%E5%8C%BF%E5%90%8D%E5%87%BD%E6%95%B0)
+  - [延迟加载组件](#%E5%BB%B6%E8%BF%9F%E5%8A%A0%E8%BD%BD%E7%BB%84%E4%BB%B6)
+  - [使用React.Fragment包裹多个子组件，避免二外的DOM层级](#%E4%BD%BF%E7%94%A8reactfragment%E5%8C%85%E8%A3%B9%E5%A4%9A%E4%B8%AA%E5%AD%90%E7%BB%84%E4%BB%B6%E9%81%BF%E5%85%8D%E4%BA%8C%E5%A4%96%E7%9A%84dom%E5%B1%82%E7%BA%A7)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 性能优化
 
 ## 减少组件的重复渲染

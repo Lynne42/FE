@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [DOM事件模型](#dom%E4%BA%8B%E4%BB%B6%E6%A8%A1%E5%9E%8B)
+- [知识点](#%E7%9F%A5%E8%AF%86%E7%82%B9)
+  - [例一：](#%E4%BE%8B%E4%B8%80)
+  - [例二：](#%E4%BE%8B%E4%BA%8C)
+  - [例三：](#%E4%BE%8B%E4%B8%89)
+  - [例四：](#%E4%BE%8B%E5%9B%9B)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # DOM事件模型
 DOM事件流的三个阶段：
 - 捕获

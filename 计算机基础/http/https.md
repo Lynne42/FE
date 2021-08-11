@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [HTTP存在的安全性问题：](#http%E5%AD%98%E5%9C%A8%E7%9A%84%E5%AE%89%E5%85%A8%E6%80%A7%E9%97%AE%E9%A2%98)
+  - [HTTPS的作用](#https%E7%9A%84%E4%BD%9C%E7%94%A8)
+  - [HTTPS是如何解决安全问题的](#https%E6%98%AF%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98%E7%9A%84)
+  - [HTTPS通信流程](#https%E9%80%9A%E4%BF%A1%E6%B5%81%E7%A8%8B)
+  - [HTTP与HTTPS的区别](#http%E4%B8%8Ehttps%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # HTTP存在的安全性问题：
 - 传输信息使用未加密的明文，从客户端到服务器，中间会经过很多阶段，每个阶段都有可能被篡改数据
 - 客户端和服务器都无法验证接收到的信息的完整性，有可能信息已经在中间的某一阶段被篡改

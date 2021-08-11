@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [for of](#for-of)
+- [for in](#for-in)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## for of
 - for..of
   - 适用遍历数组/类数组对象/字符串/map/set等拥有迭代器对象的集合.

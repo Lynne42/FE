@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [IP转成整型](#ip%E8%BD%AC%E6%88%90%E6%95%B4%E5%9E%8B)
+- [整型解析为IP地址](#%E6%95%B4%E5%9E%8B%E8%A7%A3%E6%9E%90%E4%B8%BAip%E5%9C%B0%E5%9D%80)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### IP转成整型
 
 

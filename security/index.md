@@ -1,3 +1,25 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [XSS(Cross-Site Scripting)](#xsscross-site-scripting)
+  - [跨站脚本攻击的原理：](#%E8%B7%A8%E7%AB%99%E8%84%9A%E6%9C%AC%E6%94%BB%E5%87%BB%E7%9A%84%E5%8E%9F%E7%90%86)
+  - [例](#%E4%BE%8B)
+  - [根据攻击的来源，XSS 攻击可分为反射型、存储型和 DOM 型三种：](#%E6%A0%B9%E6%8D%AE%E6%94%BB%E5%87%BB%E7%9A%84%E6%9D%A5%E6%BA%90xss-%E6%94%BB%E5%87%BB%E5%8F%AF%E5%88%86%E4%B8%BA%E5%8F%8D%E5%B0%84%E5%9E%8B%E5%AD%98%E5%82%A8%E5%9E%8B%E5%92%8C-dom-%E5%9E%8B%E4%B8%89%E7%A7%8D)
+  - [防范XSS攻击](#%E9%98%B2%E8%8C%83xss%E6%94%BB%E5%87%BB)
+- [CSRF(Cross-site request forgery)](#csrfcross-site-request-forgery)
+  - [跨站请求伪装原理是：](#%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E8%A3%85%E5%8E%9F%E7%90%86%E6%98%AF)
+  - [例](#%E4%BE%8B-1)
+  - [CSRF的特点](#csrf%E7%9A%84%E7%89%B9%E7%82%B9)
+  - [CSRF攻击防御：](#csrf%E6%94%BB%E5%87%BB%E9%98%B2%E5%BE%A1)
+- [点击劫持攻击](#%E7%82%B9%E5%87%BB%E5%8A%AB%E6%8C%81%E6%94%BB%E5%87%BB)
+- [SQL注入防御](#sql%E6%B3%A8%E5%85%A5%E9%98%B2%E5%BE%A1)
+- [XST攻击](#xst%E6%94%BB%E5%87%BB)
+  - [XST攻击防御](#xst%E6%94%BB%E5%87%BB%E9%98%B2%E5%BE%A1)
+  - [JSON 劫持](#json-%E5%8A%AB%E6%8C%81)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 常见的前端安全问题包括：
 - XSS攻击(Cross-Site Scripting 跨站脚本攻击)
 - CSRF攻击(Cross-site request forgery跨站请求伪造)

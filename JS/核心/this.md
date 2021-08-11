@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [作为函数调用](#%E4%BD%9C%E4%B8%BA%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8)
+- [作为对象方法调用](#%E4%BD%9C%E4%B8%BA%E5%AF%B9%E8%B1%A1%E6%96%B9%E6%B3%95%E8%B0%83%E7%94%A8)
+- [在构造函数中调用](#%E5%9C%A8%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E4%B8%AD%E8%B0%83%E7%94%A8)
+- [使用call或者apply调用](#%E4%BD%BF%E7%94%A8call%E6%88%96%E8%80%85apply%E8%B0%83%E7%94%A8)
+- [箭头函数中的this调用](#%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0%E4%B8%AD%E7%9A%84this%E8%B0%83%E7%94%A8)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 函数的 this 关键字在javascript中是在函数运行期绑定的， this代表的是什么完全取决于函数的调用方式， 函数可以独立运行， 也可以作为对象的方法运行，我们通过函数的运行方式来看一下this的指向
 
 <img src="../img/this.png">

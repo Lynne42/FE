@@ -1,3 +1,24 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [浏览器兼容性](#%E6%B5%8F%E8%A7%88%E5%99%A8%E5%85%BC%E5%AE%B9%E6%80%A7)
+- [文件结构](#%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84)
+  - [public文件](#public%E6%96%87%E4%BB%B6)
+  - [合适使用publish文件](#%E5%90%88%E9%80%82%E4%BD%BF%E7%94%A8publish%E6%96%87%E4%BB%B6)
+- [版本升级](#%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7)
+- [编辑器配置](#%E7%BC%96%E8%BE%91%E5%99%A8%E9%85%8D%E7%BD%AE)
+- [代码格式化](#%E4%BB%A3%E7%A0%81%E6%A0%BC%E5%BC%8F%E5%8C%96)
+- [开发环境完善](#%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%AE%8C%E5%96%84)
+- [分析build包大小](#%E5%88%86%E6%9E%90build%E5%8C%85%E5%A4%A7%E5%B0%8F)
+- [css引入](#css%E5%BC%95%E5%85%A5)
+- [添加img, font, file](#%E6%B7%BB%E5%8A%A0img-font-file)
+- [代码分离](#%E4%BB%A3%E7%A0%81%E5%88%86%E7%A6%BB)
+- [静态文件缓存](#%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%E7%BC%93%E5%AD%98)
+- [moment瘦身](#moment%E7%98%A6%E8%BA%AB)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # 浏览器兼容性
 - 支持大部分现代浏览器

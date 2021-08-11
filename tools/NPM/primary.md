@@ -2,12 +2,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [删除node](#%E5%88%A0%E9%99%A4node)
-- [查看当前镜像](#%E6%9F%A5%E7%9C%8B%E5%BD%93%E5%89%8D%E9%95%9C%E5%83%8F)
-- [还原npm配置](#%E8%BF%98%E5%8E%9Fnpm%E9%85%8D%E7%BD%AE)
-- [查看全局安装的npm包](#%E6%9F%A5%E7%9C%8B%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85%E7%9A%84npm%E5%8C%85)
-- [删除全局安装的包](#%E5%88%A0%E9%99%A4%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85%E7%9A%84%E5%8C%85)
-- [发布一个稳定的版本](#%E5%8F%91%E5%B8%83%E4%B8%80%E4%B8%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E7%89%88%E6%9C%AC)
+  - [删除node](#%E5%88%A0%E9%99%A4node)
+  - [查看当前镜像](#%E6%9F%A5%E7%9C%8B%E5%BD%93%E5%89%8D%E9%95%9C%E5%83%8F)
+  - [还原npm配置](#%E8%BF%98%E5%8E%9Fnpm%E9%85%8D%E7%BD%AE)
+  - [查看全局安装的npm包](#%E6%9F%A5%E7%9C%8B%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85%E7%9A%84npm%E5%8C%85)
+  - [删除全局安装的包](#%E5%88%A0%E9%99%A4%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85%E7%9A%84%E5%8C%85)
+  - [发布一个稳定的版本](#%E5%8F%91%E5%B8%83%E4%B8%80%E4%B8%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E7%89%88%E6%9C%AC)
+- [查看npm包的所有版本](#%E6%9F%A5%E7%9C%8Bnpm%E5%8C%85%E7%9A%84%E6%89%80%E6%9C%89%E7%89%88%E6%9C%AC)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -75,3 +76,8 @@
         当发现 BUG，也可以通过 npm dist-tag 命令回退。
 
         这时候，latest 稳定版本已经是 1.0.1-1 了，用户可以直接通过 npm install demo 即可安装该版本。
+
+## 查看npm包的所有版本
+```
+npm view [react] versions
+```

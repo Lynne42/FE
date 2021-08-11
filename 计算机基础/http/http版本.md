@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [HTTP报文](#http%E6%8A%A5%E6%96%87)
+- [HTTP1.0](#http10)
+- [HTTP1.1](#http11)
+- [HTTP2.0](#http20)
+- [HTTP3](#http3)
+- [HTTP1.0与HTTP1.1的区别](#http10%E4%B8%8Ehttp11%E7%9A%84%E5%8C%BA%E5%88%AB)
+- [HTTP1.2与HTTP2的区别](#http12%E4%B8%8Ehttp2%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # HTTP报文
 - 请求报文：
   - 请求行： 方法 URL HTTP协议版本

@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Fiber reconciler](#fiber-reconciler)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 react核心分为三层：
 
 - Virtual DOM是一个虚拟的DOM对象，被保存在内存中， 用来描述用户界面，通过ReactDOM等将他与真实DOM同步，从而修改页面

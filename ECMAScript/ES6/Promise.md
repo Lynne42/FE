@@ -1,3 +1,28 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [问答](#%E9%97%AE%E7%AD%94)
+- [promise是什么](#promise%E6%98%AF%E4%BB%80%E4%B9%88)
+- [为什么会出现promise](#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%87%BA%E7%8E%B0promise)
+- [promise存在的问题](#promise%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98)
+- [使用](#%E4%BD%BF%E7%94%A8)
+- [方法](#%E6%96%B9%E6%B3%95)
+  - [then()](#then)
+  - [catch()](#catch)
+  - [finally()](#finally)
+- [Promise方法](#promise%E6%96%B9%E6%B3%95)
+- [Promise.all([])](#promiseall)
+- [Promise.race()](#promiserace)
+- [Promise.allSettled](#promiseallsettled)
+- [Promise.any()](#promiseany)
+- [Promise.resolve()](#promiseresolve)
+- [Promise.reject()](#promisereject)
+- [使用promise实现ajax](#%E4%BD%BF%E7%94%A8promise%E5%AE%9E%E7%8E%B0ajax)
+- [例](#%E4%BE%8B)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
     console.log(1);
     const promise = new Promise((resolve, reject) => {
       console.log(2)

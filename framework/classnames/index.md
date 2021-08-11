@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [是什么](#%E6%98%AF%E4%BB%80%E4%B9%88)
+- [功能](#%E5%8A%9F%E8%83%BD)
+- [源码](#%E6%BA%90%E7%A0%81)
+  - [默认版本](#%E9%BB%98%E8%AE%A4%E7%89%88%E6%9C%AC)
+  - [dedupe版本](#dedupe%E7%89%88%E6%9C%AC)
+  - [bind版](#bind%E7%89%88)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 是什么
 一个简单的JavaScript实用程序，用于有条件地将className连接在一起， 使动态和有条件的className更易于使用
 

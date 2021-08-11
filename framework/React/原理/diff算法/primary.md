@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [diff算法（reconciliation）](#diff%E7%AE%97%E6%B3%95reconciliation)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## diff算法（reconciliation）
 
 - 节点类型不同

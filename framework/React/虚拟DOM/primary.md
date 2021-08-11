@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [何为虚拟DOM](#%E4%BD%95%E4%B8%BA%E8%99%9A%E6%8B%9Fdom)
+- [为何使用虚拟DOM](#%E4%B8%BA%E4%BD%95%E4%BD%BF%E7%94%A8%E8%99%9A%E6%8B%9Fdom)
+- [虚拟DOM的原理](#%E8%99%9A%E6%8B%9Fdom%E7%9A%84%E5%8E%9F%E7%90%86)
+- [虚拟DOM的组成](#%E8%99%9A%E6%8B%9Fdom%E7%9A%84%E7%BB%84%E6%88%90)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## 何为虚拟DOM
 ---
 - DOM即文档对象模型，它允许脚本(js)控制Web页面、窗口和文档

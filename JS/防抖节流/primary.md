@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [防抖](#%E9%98%B2%E6%8A%96)
+  - [概念](#%E6%A6%82%E5%BF%B5)
+  - [理解](#%E7%90%86%E8%A7%A3)
+  - [理解例子](#%E7%90%86%E8%A7%A3%E4%BE%8B%E5%AD%90)
+  - [应用场景](#%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF)
+- [节流](#%E8%8A%82%E6%B5%81)
+  - [概念](#%E6%A6%82%E5%BF%B5-1)
+  - [核心](#%E6%A0%B8%E5%BF%83)
+  - [理解](#%E7%90%86%E8%A7%A3-1)
+  - [理解例子](#%E7%90%86%E8%A7%A3%E4%BE%8B%E5%AD%90-1)
+  - [应用场景](#%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF-1)
+  - [函数实现](#%E5%87%BD%E6%95%B0%E5%AE%9E%E7%8E%B0)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## 防抖
 

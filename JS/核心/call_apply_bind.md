@@ -1,3 +1,23 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [call/apply/bind](#callapplybind)
+- [call 和 apply 的相同点](#call-%E5%92%8C-apply-%E7%9A%84%E7%9B%B8%E5%90%8C%E7%82%B9)
+- [call 和 apply 的异同点](#call-%E5%92%8C-apply-%E7%9A%84%E5%BC%82%E5%90%8C%E7%82%B9)
+  - [call()](#call)
+    - [应用案例](#%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B)
+  - [apply()](#apply)
+    - [应用案例](#%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B-1)
+- [bind](#bind)
+- [call/apply 和 bind 的相/异同点](#callapply-%E5%92%8C-bind-%E7%9A%84%E7%9B%B8%E5%BC%82%E5%90%8C%E7%82%B9)
+- [模拟实现 call](#%E6%A8%A1%E6%8B%9F%E5%AE%9E%E7%8E%B0-call)
+- [模拟实现 apply](#%E6%A8%A1%E6%8B%9F%E5%AE%9E%E7%8E%B0-apply)
+- [模拟实现 bind](#%E6%A8%A1%E6%8B%9F%E5%AE%9E%E7%8E%B0-bind)
+- [问答](#%E9%97%AE%E7%AD%94)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # call/apply/bind
 
 在 javascript 中，

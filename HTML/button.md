@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [button按钮点击之后， 取消焦点状态](#button%E6%8C%89%E9%92%AE%E7%82%B9%E5%87%BB%E4%B9%8B%E5%90%8E-%E5%8F%96%E6%B6%88%E7%84%A6%E7%82%B9%E7%8A%B6%E6%80%81)
+- [防止button按钮频繁点击](#%E9%98%B2%E6%AD%A2button%E6%8C%89%E9%92%AE%E9%A2%91%E7%B9%81%E7%82%B9%E5%87%BB)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 <!--
  * @Descript
  * @Author: qiaolingniu

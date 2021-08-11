@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [``Ajax 是什么? 如何创建一个 Ajax``](#ajax-%E6%98%AF%E4%BB%80%E4%B9%88-%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA-ajax)
+  - [原生实现](#%E5%8E%9F%E7%94%9F%E5%AE%9E%E7%8E%B0)
+  - [JQ实现](#jq%E5%AE%9E%E7%8E%B0)
+  - [fetch](#fetch)
+  - [axios](#axios)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### ``Ajax 是什么? 如何创建一个 Ajax``
 
 AJAX是一种异步通信方式， 用来实现客户端和服务器端的异步通信，实现页面的局部刷新。

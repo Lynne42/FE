@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [``什么是DOM和BOM``](#%E4%BB%80%E4%B9%88%E6%98%AFdom%E5%92%8Cbom)
+- [``三种事件模型是什么？``](#%E4%B8%89%E7%A7%8D%E4%BA%8B%E4%BB%B6%E6%A8%A1%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+- [``事件委托是什么？``](#%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98%E6%98%AF%E4%BB%80%E4%B9%88)
+- [``什么是事件传播？``](#%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%8B%E4%BB%B6%E4%BC%A0%E6%92%AD)
+- [`写一个通用的事件监听器函数`](#%E5%86%99%E4%B8%80%E4%B8%AA%E9%80%9A%E7%94%A8%E7%9A%84%E4%BA%8B%E4%BB%B6%E7%9B%91%E5%90%AC%E5%99%A8%E5%87%BD%E6%95%B0)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### ``什么是DOM和BOM``
 
     DOM: 指的是文档对象模型，它指的是把文档当做一个对象来看待，这个对象定义了处理网页内容的方法和接口

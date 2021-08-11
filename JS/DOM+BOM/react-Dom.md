@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [React事件绑定](#react%E4%BA%8B%E4%BB%B6%E7%BB%91%E5%AE%9A)
+- [事件触发](#%E4%BA%8B%E4%BB%B6%E8%A7%A6%E5%8F%91)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 <!--
  * @Author: your name
  * @Date: 2020-08-27 22:49:18

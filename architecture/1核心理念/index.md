@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [架构原则](#%E6%9E%B6%E6%9E%84%E5%8E%9F%E5%88%99)
+- [技术栈及选型](#%E6%8A%80%E6%9C%AF%E6%A0%88%E5%8F%8A%E9%80%89%E5%9E%8B)
+- [基础组件](#%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6)
+- [自动化构建](#%E8%87%AA%E5%8A%A8%E5%8C%96%E6%9E%84%E5%BB%BA)
+- [项目迭代](#%E9%A1%B9%E7%9B%AE%E8%BF%AD%E4%BB%A3)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 架构： 整个web页面开发，调试，生产状态的规范流程
 

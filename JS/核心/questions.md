@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [``js的作用域和作用域链``](#js%E7%9A%84%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE)
+- [``JS获取原型的方法``](#js%E8%8E%B7%E5%8F%96%E5%8E%9F%E5%9E%8B%E7%9A%84%E6%96%B9%E6%B3%95)
+- [``谈谈JS的运行机制``](#%E8%B0%88%E8%B0%88js%E7%9A%84%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6)
+- [``arguments对象是什么？``](#arguments%E5%AF%B9%E8%B1%A1%E6%98%AF%E4%BB%80%E4%B9%88)
+- [``V8引擎的垃圾回收机制``](#v8%E5%BC%95%E6%93%8E%E7%9A%84%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6)
+- [``哪些操作会造成内存泄漏``](#%E5%93%AA%E4%BA%9B%E6%93%8D%E4%BD%9C%E4%BC%9A%E9%80%A0%E6%88%90%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F)
+- [`实现call, apply, bind`](#%E5%AE%9E%E7%8E%B0call-apply-bind)
+- [`instanceof的原理是什么，如何实现`](#instanceof%E7%9A%84%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### ``js的作用域和作用域链``
   
     [作用域](./运行机制/作用域.md) :

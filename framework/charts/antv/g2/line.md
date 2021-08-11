@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [基本面积图](#%E5%9F%BA%E6%9C%AC%E9%9D%A2%E7%A7%AF%E5%9B%BE)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 基本面积图
 ```
 const chartOptions = {

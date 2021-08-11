@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [存在的问题](#%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98)
+  - [1： 数据及回调需要跨层传递](#1-%E6%95%B0%E6%8D%AE%E5%8F%8A%E5%9B%9E%E8%B0%83%E9%9C%80%E8%A6%81%E8%B7%A8%E5%B1%82%E4%BC%A0%E9%80%92)
+  - [2: 多个模块需要同一个数据](#2-%E5%A4%9A%E4%B8%AA%E6%A8%A1%E5%9D%97%E9%9C%80%E8%A6%81%E5%90%8C%E4%B8%80%E4%B8%AA%E6%95%B0%E6%8D%AE)
+- [redux数据传递方式](#redux%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%92%E6%96%B9%E5%BC%8F)
+- [解决的问题：](#%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98)
+- [与React Context API 对比](#%E4%B8%8Ereact-context-api-%E5%AF%B9%E6%AF%94)
+  - [React Context](#react-context)
+  - [Redux 使用场景](#redux-%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 存在的问题
 ## 1： 数据及回调需要跨层传递
 <img src="https://daveceddia.com/images/counter-component@2x.png"/>

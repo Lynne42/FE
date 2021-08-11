@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [信息响应](#%E4%BF%A1%E6%81%AF%E5%93%8D%E5%BA%94)
+- [成功响应](#%E6%88%90%E5%8A%9F%E5%93%8D%E5%BA%94)
+- [重定向](#%E9%87%8D%E5%AE%9A%E5%90%91)
+- [客户端响应](#%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%93%8D%E5%BA%94)
+- [服务端响应](#%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%93%8D%E5%BA%94)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 信息响应
 
 - 100 Continue

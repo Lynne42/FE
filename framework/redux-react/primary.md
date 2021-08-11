@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [为什么使用redux-react](#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8redux-react)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## 为什么使用redux-react
 
   - 是redux官方提供的针对react的UI绑定库

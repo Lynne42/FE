@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [约定式提交规范](#%E7%BA%A6%E5%AE%9A%E5%BC%8F%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83)
+- [为什么使用约定式提交规范](#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8%E7%BA%A6%E5%AE%9A%E5%BC%8F%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83)
+- [提交规范](#%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83)
+  - [Header（第一部分）](#header%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86)
+  - [Body（第二部分）](#body%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86)
+  - [Footer(第三部分)](#footer%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86)
+- [使用工具，生成规范提示](#%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7%E7%94%9F%E6%88%90%E8%A7%84%E8%8C%83%E6%8F%90%E7%A4%BA)
+- [检验提交规范](#%E6%A3%80%E9%AA%8C%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83)
+  - [校验Commit message 是否符合规范](#%E6%A0%A1%E9%AA%8Ccommit-message-%E6%98%AF%E5%90%A6%E7%AC%A6%E5%90%88%E8%A7%84%E8%8C%83)
+- [添加git hook钩子，在commit阶段自动检测相应规范](#%E6%B7%BB%E5%8A%A0git-hook%E9%92%A9%E5%AD%90%E5%9C%A8commit%E9%98%B6%E6%AE%B5%E8%87%AA%E5%8A%A8%E6%A3%80%E6%B5%8B%E7%9B%B8%E5%BA%94%E8%A7%84%E8%8C%83)
+- [不校验commit msg(避免使用)](#%E4%B8%8D%E6%A0%A1%E9%AA%8Ccommit-msg%E9%81%BF%E5%85%8D%E4%BD%BF%E7%94%A8)
+- [link](#link)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # 约定式提交规范
 约定式提交规范是一种基于提交消息的轻量级约定。 它提供了一组用于创建清晰的提交历史的简单规则； 这使得编写基于规范的自动化工具变得更容易。 这个约定与 SemVer 相吻合， 在提交信息中描述新特性、bug 修复和破坏性变更。

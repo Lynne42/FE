@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [机器学习模型服务上线经历的阶段](#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E6%9C%8D%E5%8A%A1%E4%B8%8A%E7%BA%BF%E7%BB%8F%E5%8E%86%E7%9A%84%E9%98%B6%E6%AE%B5)
+- [核心组件](#%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6)
+- [框架的作用](#%E6%A1%86%E6%9E%B6%E7%9A%84%E4%BD%9C%E7%94%A8)
+  - [pipelines](#pipelines)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 机器学习模型服务上线经历的阶段
 ![img](./img/step.png)
 

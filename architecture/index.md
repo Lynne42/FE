@@ -1,3 +1,27 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [核心理念](#%E6%A0%B8%E5%BF%83%E7%90%86%E5%BF%B5)
+- [组织框架](#%E7%BB%84%E7%BB%87%E6%A1%86%E6%9E%B6)
+  - [开发模式](#%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F)
+  - [通信模型](#%E9%80%9A%E4%BF%A1%E6%A8%A1%E5%9E%8B)
+  - [模板引擎](#%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E)
+  - [框架/库](#%E6%A1%86%E6%9E%B6%E5%BA%93)
+- [代码结构](#%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84)
+- [开发规范](#%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83)
+  - [编码规范](#%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
+  - [设计思路](#%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF)
+  - [模块拆分原则](#%E6%A8%A1%E5%9D%97%E6%8B%86%E5%88%86%E5%8E%9F%E5%88%99)
+  - [结构分层](#%E7%BB%93%E6%9E%84%E5%88%86%E5%B1%82)
+- [工具平台](#%E5%B7%A5%E5%85%B7%E5%B9%B3%E5%8F%B0)
+  - [抽象分类](#%E6%8A%BD%E8%B1%A1%E5%88%86%E7%B1%BB)
+  - [工程化过程](#%E5%B7%A5%E7%A8%8B%E5%8C%96%E8%BF%87%E7%A8%8B)
+- [流程边界](#%E6%B5%81%E7%A8%8B%E8%BE%B9%E7%95%8C)
+- [经验沉淀](#%E7%BB%8F%E9%AA%8C%E6%B2%89%E6%B7%80)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # [核心理念](./1核心理念/index.md)
 
@@ -83,7 +107,7 @@
     
     - 报警系统
 
-## 工程化过程
+## [工程化过程](../工程化/工程化.md)
 模块化，组件化，规范化，自动化
 
   - **版本管理**

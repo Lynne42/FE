@@ -1,3 +1,25 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [AMD - 异步模块定义（Asynchromous Module Definition）](#amd---%E5%BC%82%E6%AD%A5%E6%A8%A1%E5%9D%97%E5%AE%9A%E4%B9%89asynchromous-module-definition)
+- [由来](#%E7%94%B1%E6%9D%A5)
+- [特点](#%E7%89%B9%E7%82%B9)
+- [实现](#%E5%AE%9E%E7%8E%B0)
+- [定义模块](#%E5%AE%9A%E4%B9%89%E6%A8%A1%E5%9D%97)
+    - [id](#id)
+    - [dependencies](#dependencies)
+    - [factory](#factory)
+    - [定义无依赖模块](#%E5%AE%9A%E4%B9%89%E6%97%A0%E4%BE%9D%E8%B5%96%E6%A8%A1%E5%9D%97)
+    - [定义有依赖的模块](#%E5%AE%9A%E4%B9%89%E6%9C%89%E4%BE%9D%E8%B5%96%E7%9A%84%E6%A8%A1%E5%9D%97)
+    - [定义具名模块](#%E5%AE%9A%E4%B9%89%E5%85%B7%E5%90%8D%E6%A8%A1%E5%9D%97)
+- [加载模块-require.js](#%E5%8A%A0%E8%BD%BD%E6%A8%A1%E5%9D%97-requirejs)
+    - [加载非规范的模块](#%E5%8A%A0%E8%BD%BD%E9%9D%9E%E8%A7%84%E8%8C%83%E7%9A%84%E6%A8%A1%E5%9D%97)
+- [注意点](#%E6%B3%A8%E6%84%8F%E7%82%B9)
+- [应用](#%E5%BA%94%E7%94%A8)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## AMD - 异步模块定义（Asynchromous Module Definition）
 
 AMD规范是从CommonJS的讨论中诞生的， 优先照顾浏览器的模块加载场景， 采用**异步加载和回调**的方式。

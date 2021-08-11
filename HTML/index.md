@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [html5有哪些新特性、移除了那些元素？](#html5%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E7%89%B9%E6%80%A7%E7%A7%BB%E9%99%A4%E4%BA%86%E9%82%A3%E4%BA%9B%E5%85%83%E7%B4%A0)
+- [WEB标准以及W3C标准是什么?](#web%E6%A0%87%E5%87%86%E4%BB%A5%E5%8F%8Aw3c%E6%A0%87%E5%87%86%E6%98%AF%E4%BB%80%E4%B9%88)
+- [谈谈你对语义化的理解](#%E8%B0%88%E8%B0%88%E4%BD%A0%E5%AF%B9%E8%AF%AD%E4%B9%89%E5%8C%96%E7%9A%84%E7%90%86%E8%A7%A3)
+- [Doctype作用? 严格模式与混杂模式如何区分？它们有何意义? Doctype文档类型有哪些？](#doctype%E4%BD%9C%E7%94%A8-%E4%B8%A5%E6%A0%BC%E6%A8%A1%E5%BC%8F%E4%B8%8E%E6%B7%B7%E6%9D%82%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%8C%BA%E5%88%86%E5%AE%83%E4%BB%AC%E6%9C%89%E4%BD%95%E6%84%8F%E4%B9%89-doctype%E6%96%87%E6%A1%A3%E7%B1%BB%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B)
+- [常见的兼容性问题](#%E5%B8%B8%E8%A7%81%E7%9A%84%E5%85%BC%E5%AE%B9%E6%80%A7%E9%97%AE%E9%A2%98)
+- [浮动的原理， 如何清除浮动](#%E6%B5%AE%E5%8A%A8%E7%9A%84%E5%8E%9F%E7%90%86-%E5%A6%82%E4%BD%95%E6%B8%85%E9%99%A4%E6%B5%AE%E5%8A%A8)
+- [测试性能的工具](#%E6%B5%8B%E8%AF%95%E6%80%A7%E8%83%BD%E7%9A%84%E5%B7%A5%E5%85%B7)
+- [什么是 FOUC（无样式内容闪烁）？你如何来避免 FOUC](#%E4%BB%80%E4%B9%88%E6%98%AF-fouc%E6%97%A0%E6%A0%B7%E5%BC%8F%E5%86%85%E5%AE%B9%E9%97%AA%E7%83%81%E4%BD%A0%E5%A6%82%E4%BD%95%E6%9D%A5%E9%81%BF%E5%85%8D-fouc)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # html5有哪些新特性、移除了那些元素？
 ```
 HTML5 现在已经不是 SGML 的子集，主要是关于图像，位置，存储，多任务等功能的增加

@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [new命令的原理](#new%E5%91%BD%E4%BB%A4%E7%9A%84%E5%8E%9F%E7%90%86)
+- [模拟实现new](#%E6%A8%A1%E6%8B%9F%E5%AE%9E%E7%8E%B0new)
+- [new.target](#newtarget)
+- [new命令的基本使用](#new%E5%91%BD%E4%BB%A4%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## new命令的原理
 使用**new**命令var o = new Foo();时， 他后面的函数会一次执行下面的步骤：
 1. **创建一个空对象， 作为将要返回的对象实例**
